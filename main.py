@@ -1,12 +1,6 @@
 so = int(input("Nhap so: "))
 
-if so == 0:
+if so % 2 == 0:
     print("so chan")
-
-
-if so == 1:
-    print("so le")
-
-    
-if so == 2:
+else:
     print("so chan")
