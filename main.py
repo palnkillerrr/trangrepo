@@ -3,4 +3,4 @@ so = int(input("Nhap so: "))
 if so % 2 == 0:
     print("so chan")
 else:
-    print("so chan")
+    print("so le")
